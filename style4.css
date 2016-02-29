@@ -8,35 +8,34 @@ body{
 	background-repeat: no-repeat;
 	background-size: 1400px;
 }
-#about{
-	width:500px;
-}
+
 #about h1{
 	font-family: 'Cabin', sans-serif;
 	font-weight: 700;
 	color: white;
 	font-size: 60px;
 	margin-bottom:0px;
-		margin-left:30px;
+	margin-left:30px;
 }
 #about p{
 	margin-top:0;
 	padding-bottom:20px;
 	color: white;
+		width:500px;
 }
 
 h2{
 	font-family: 'Cabin', sans-serif;
 	font-weight: 700;
 	color: white;
-		margin-left:30px;
+	margin-left:30px;
 }
 
 p{
 	font-family: 'Old Standard TT', serif;	
 	color: grey;
-			margin-left:30px;
-			margin-bottom:60px;
+	margin-left:30px;
+	margin-bottom:60px;
 }
 
 a {
@@ -44,15 +43,19 @@ color: white;
 text-decoration: none;
 }
 
-#movein{
+img{
+	margin-left:30px;
+}
+
+#housing{
 	width: 630px;
 }
 
-#convocation{
+#english{
 	width:630px;
 }
 
-#activities{
+#work{
 	width:630px;
 }
 
